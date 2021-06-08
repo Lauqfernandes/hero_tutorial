@@ -1,0 +1,40 @@
+{
+  "heroes": [
+    {
+      "id": 11,
+      "name": "Dr Nice"
+    },
+    {
+      "id": 12,
+      "name": "Narco"
+    },
+    {
+      "id": 13,
+      "name": "Bombastos"
+    },
+    {
+      "id": 14,
+      "name": "Celeritas1"
+    },
+    {
+      "id": 15,
+      "name": " Magneta "
+    },
+    {
+      "id": 16,
+      "name": " RubberMan2"
+    },
+    {
+      "id": 17,
+      "name": " Dynama"
+    },
+    {
+      "id": 18,
+      "name": " Dr IQ "
+    },
+    {
+      "name": "Thunder",
+      "id": 21
+    }
+  ]
+}
